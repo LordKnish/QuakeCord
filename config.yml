@@ -1,0 +1,7 @@
+- channel_id: 00
+  disablemap: false
+  mag_limit: '0'
+  pausealerts: false
+  roles:
+  - 00
+  server: 00
