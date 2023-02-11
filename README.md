@@ -1,6 +1,6 @@
 # Quakecord
 
-A discord bot that retrieves and displays information about recent earthquakes from the European Mediterranean Seismological Centre (EMSC).
+A discord bot that retrieves and displays information about recent earthquakes from the European Mediterranean Seismological Centre (EMSC). Invite it here: https://discord.com/api/oauth2/authorize?client_id=787970287550464010&permissions=2048&scope=bot
 
 ## Table of Contents
 
